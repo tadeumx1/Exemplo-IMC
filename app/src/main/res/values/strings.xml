@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">IMC</string>
+    <string name="label_title">Calculadora IMC</string>
+
+    <string name="magreza">Abaixo do peso</string>
+    <string name="peso_normal">Peso normal</string>
+    <string name="sobre_peso">Você está sobrepeso</string>
+    <string name="obesidade_grau_i">Você está com Obesidade Grau I</string>
+    <string name="obesidade_grau_ii">Você está com Obesidade Grau II</string>
+    <string name="obesidade_grau_iii">Você está com Obesidade Grau III</string>
+
+    <string name="status_imc">Seu IMC é %1$s</string>
+</resources>
